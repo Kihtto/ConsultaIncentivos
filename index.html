@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Consulta de Medicamentos</title>
+  <link rel="stylesheet" href="static/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">Uplucko</div>
+    <nav>
+      <a href="#">Inicio</a>
+      <a href="#">Contacto</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="buscador">
+      <input type="text" placeholder="Buscar principio activo..." />
+      <button onclick="buscar()">Buscar</button>
+    </section>
+
+    <section class="resultados">
+      <div class="tarjeta">
+        <h2>Paracetamol 500mg</h2>
+        <p><strong>Laboratorio:</strong> ACME</p>
+        <p><strong>Actividad:</strong> Analgésico</p>
+        <p><strong>% Comisión:</strong> 12%</p>
+      </div>
+      <div class="tarjeta">
+        <h2>Ibuprofeno 400mg</h2>
+        <p><strong>Laboratorio:</strong> SaludPlus</p>
+        <p><strong>Actividad:</strong> Antiinflamatorio</p>
+        <p><strong>% Comisión:</strong> 8%</p>
+      </div>
+    </section>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="static/script.js"></script>
+</body>
+</html>
