@@ -35,6 +35,7 @@ function buscar() {
       <p><strong>Laboratorio:</strong> ${med['Empresa'] || 'No disponible'}</p>
       <p><strong>Actividad:</strong> ${med['Actividad'] || 'No disponible'}</p>
       <p><strong>% Comisión:</strong> ${(parseFloat(med['Mg  Franquiciado']) * 100).toFixed(1)}%</p>
+      <p><strong>Farmaco:</strong> ${med['Principio Activo']}</p>
     `;
     resultados.appendChild(tarjeta);
   });
