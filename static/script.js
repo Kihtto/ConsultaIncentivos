@@ -1,7 +1,7 @@
 let medicamentos = [];
 let fuse;
 
-fetch('static/df_Bea.json')
+fetch('static/df_foco.json')
   .then(res => res.json())
   .then(data => {
     medicamentos = data;
