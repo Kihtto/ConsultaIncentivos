@@ -63,15 +63,6 @@
         "Empresa": "INSTITUTO SANITAS S.A."
     },
     {
-        "Codigo": "12135",
-        "Descriptor": "NASTUL GTS.15ML.",
-        "Mg  Franquiciado": "0.608036890645586",
-        "Registro ISP": "F-8744",
-        "Actividad": "BEA",
-        "Principio Activo": "CLORFENAMINA//PSEUDOEFEDRINA",
-        "Empresa": "CHEMOPHARMA S.A."
-    },
-    {
         "Codigo": "12136",
         "Descriptor": "NASTUL COMPT.JBE.100ML.",
         "Mg  Franquiciado": "0.589655172413793",
@@ -130,15 +121,6 @@
         "Descriptor": "GABEX CAP.300MG.30",
         "Mg  Franquiciado": "0.508920383493122",
         "Registro ISP": "F-13190",
-        "Actividad": "BEA",
-        "Principio Activo": "GABAPENTINA",
-        "Empresa": "LABORATORIOS ANDRÓMACO S.A."
-    },
-    {
-        "Codigo": "15536",
-        "Descriptor": "GABEX CAP.400MG.30",
-        "Mg  Franquiciado": "0.45241747249083",
-        "Registro ISP": "F-13189",
         "Actividad": "BEA",
         "Principio Activo": "GABAPENTINA",
         "Empresa": "LABORATORIOS ANDRÓMACO S.A."
@@ -261,15 +243,6 @@
         "Empresa": "MINTLAB Co. S.A."
     },
     {
-        "Codigo": "225202",
-        "Descriptor": "MINEVA E BE.150MCG/30MCG.COM.REC.28",
-        "Mg  Franquiciado": "0.559148936170213",
-        "Registro ISP": "F-21831",
-        "Actividad": "BEA",
-        "Principio Activo": "ETINILESTRADIOL//LEVONORGESTREL",
-        "Empresa": "MINTLAB Co. S.A."
-    },
-    {
         "Codigo": "251267",
         "Descriptor": "NEOHYSTICLAR 5mg COMP. REC.30",
         "Mg  Franquiciado": "0.653187613843352",
@@ -324,24 +297,6 @@
         "Empresa": "LABORATORIOS ANDRÓMACO S.A."
     },
     {
-        "Codigo": "253380",
-        "Descriptor": "ROSUMED COM.20MG.30",
-        "Mg  Franquiciado": "0.54031120467024",
-        "Registro ISP": "F-14689",
-        "Actividad": "BEA",
-        "Principio Activo": "ROSUVASTATINA",
-        "Empresa": "ITF - LABOMED FARMACÉUTICA LTDA."
-    },
-    {
-        "Codigo": "253381",
-        "Descriptor": "ROSUMED COM.10MG.30",
-        "Mg  Franquiciado": "0.530473713452882",
-        "Registro ISP": "F-14690",
-        "Actividad": "BEA",
-        "Principio Activo": "ROSUVASTATINA",
-        "Empresa": "ITF - LABOMED FARMACÉUTICA LTDA."
-    },
-    {
         "Codigo": "253853",
         "Descriptor": "D-HISTAPLUS COM. 5MG.30",
         "Mg  Franquiciado": "0.619971401334604",
@@ -394,24 +349,6 @@
         "Actividad": "BEA",
         "Principio Activo": "DIOSMINA//HESPERIDINA",
         "Empresa": "EUROFARMA CHILE SpA"
-    },
-    {
-        "Codigo": "256320",
-        "Descriptor": "NEURUM COM.150MG.30",
-        "Mg  Franquiciado": "0.548446230796713",
-        "Registro ISP": "F-24560",
-        "Actividad": "BEA",
-        "Principio Activo": "PREGABALINA",
-        "Empresa": "LABORATORIOS SAVAL S.A."
-    },
-    {
-        "Codigo": "256321",
-        "Descriptor": "NEURUM COM.75MG.30",
-        "Mg  Franquiciado": "0.399961508852964",
-        "Registro ISP": "F-24558",
-        "Actividad": "BEA",
-        "Principio Activo": "PREGABALINA",
-        "Empresa": "LABORATORIOS SAVAL S.A."
     },
     {
         "Codigo": "256837",
@@ -916,15 +853,6 @@
         "Actividad": "BEA",
         "Principio Activo": "OLANZAPINA",
         "Empresa": "AXON PHARMA S.p.A."
-    },
-    {
-        "Codigo": "272332",
-        "Descriptor": "CELEDOX CAP.200MG.30",
-        "Mg  Franquiciado": "0.50005715918834",
-        "Registro ISP": "F-23504",
-        "Actividad": "BEA",
-        "Principio Activo": "CELECOXIB",
-        "Empresa": "SYNTHON CHILE LTDA."
     },
     {
         "Codigo": "272595",
@@ -1584,15 +1512,6 @@
         "Empresa": "ASCEND LABORATORIES S.p.A."
     },
     {
-        "Codigo": "296087",
-        "Descriptor": "ALIVEN 10 COM.MAS.10MG.28",
-        "Mg  Franquiciado": "0.484161387129043",
-        "Registro ISP": "F-24188",
-        "Actividad": "BEA",
-        "Principio Activo": "MONTELUKAST",
-        "Empresa": "DEUTSCHE PHARMA S.A."
-    },
-    {
         "Codigo": "296171",
         "Descriptor": "DIONELA COM.0,15/0,03MG28",
         "Mg  Franquiciado": "0.629975124378109",
@@ -1656,28 +1575,10 @@
         "Empresa": "SYNTHON CHILE LTDA."
     },
     {
-        "Codigo": "296290",
-        "Descriptor": "NORTIUM COM.REC.200MG.30",
-        "Mg  Franquiciado": "0.45222692211993",
-        "Registro ISP": "F-22917",
-        "Actividad": "BEA",
-        "Principio Activo": "QUETIAPINA",
-        "Empresa": "ASCEND LABORATORIES S.p.A."
-    },
-    {
         "Codigo": "296291",
         "Descriptor": "GLIMEFOR XR COM.500MG.30",
         "Mg  Franquiciado": "0.661878230833836",
         "Registro ISP": "F-23720",
-        "Actividad": "BEA",
-        "Principio Activo": "METFORMINA",
-        "Empresa": "ASCEND LABORATORIES S.p.A."
-    },
-    {
-        "Codigo": "296292",
-        "Descriptor": "GLIMEFOR XR COM.750MG.30",
-        "Mg  Franquiciado": "0.571749887539361",
-        "Registro ISP": "F-23889",
         "Actividad": "BEA",
         "Principio Activo": "METFORMINA",
         "Empresa": "ASCEND LABORATORIES S.p.A."
@@ -1881,24 +1782,6 @@
         "Empresa": "ASCEND LABORATORIES S.p.A."
     },
     {
-        "Codigo": "298569",
-        "Descriptor": "COQUES CAP.200MG.10",
-        "Mg  Franquiciado": "0.439086294416244",
-        "Registro ISP": "F-26955",
-        "Actividad": "BEA",
-        "Principio Activo": "CELECOXIB",
-        "Empresa": "EUROFARMA CHILE SpA"
-    },
-    {
-        "Codigo": "298570",
-        "Descriptor": "COQUES CAP.200MG.30",
-        "Mg  Franquiciado": "0.451733216322949",
-        "Registro ISP": "F-26955",
-        "Actividad": "BEA",
-        "Principio Activo": "CELECOXIB",
-        "Empresa": "EUROFARMA CHILE SpA"
-    },
-    {
         "Codigo": "298836",
         "Descriptor": "SORTIFEM ANILL.VAGINAL X1",
         "Mg  Franquiciado": "0.401218220338983",
@@ -1953,24 +1836,6 @@
         "Empresa": "SYNTHON CHILE LTDA."
     },
     {
-        "Codigo": "361082",
-        "Descriptor": "ETOX COM.REC.60MG.14",
-        "Mg  Franquiciado": "0.446509649749821",
-        "Registro ISP": "F-24249",
-        "Actividad": "BEA",
-        "Principio Activo": "ETORICOXIB",
-        "Empresa": "ITF - LABOMED FARMACÉUTICA LTDA."
-    },
-    {
-        "Codigo": "361084",
-        "Descriptor": "ETOX COM.REC.120MG.7",
-        "Mg  Franquiciado": "0.449977011494253",
-        "Registro ISP": "F-24250",
-        "Actividad": "BEA",
-        "Principio Activo": "ETORICOXIB",
-        "Empresa": "ITF - LABOMED FARMACÉUTICA LTDA."
-    },
-    {
         "Codigo": "384053",
         "Descriptor": "DOLOSTAT BI COM.150MG.10",
         "Mg  Franquiciado": "0.532794457274827",
@@ -1978,15 +1843,6 @@
         "Actividad": "BEA",
         "Principio Activo": "KETOPROFENO",
         "Empresa": "EUROFARMA CHILE SpA"
-    },
-    {
-        "Codigo": "384064",
-        "Descriptor": "ALFEXA COM.REC.180MG.30",
-        "Mg  Franquiciado": "0.501778436457947",
-        "Registro ISP": "F-25129",
-        "Actividad": "BEA",
-        "Principio Activo": "FEXOFENADINA",
-        "Empresa": "ASCEND LABORATORIES S.p.A."
     },
     {
         "Codigo": "384149",
@@ -2016,15 +1872,6 @@
         "Empresa": "ASCEND LABORATORIES S.p.A."
     },
     {
-        "Codigo": "384699",
-        "Descriptor": "LEVERA COM.REC.500MG.30",
-        "Mg  Franquiciado": "0.493836575875486",
-        "Registro ISP": "F-27496",
-        "Actividad": "BEA",
-        "Principio Activo": "LEVETIRACETAM",
-        "Empresa": "ASCEND LABORATORIES S.p.A."
-    },
-    {
         "Codigo": "384910",
         "Descriptor": "GABATA CAP.300MG.30",
         "Mg  Franquiciado": "0.387557778889445",
@@ -2047,15 +1894,6 @@
         "Descriptor": "TADAVITAE COM.REC.5MG.14",
         "Mg  Franquiciado": "0.503959983326386",
         "Registro ISP": "F-25255",
-        "Actividad": "BEA",
-        "Principio Activo": "TADALAFILO",
-        "Empresa": "GALENICUM HEALTH CHILE S.p.A."
-    },
-    {
-        "Codigo": "386521",
-        "Descriptor": "TADAVITAE COM.REC.20MG.4",
-        "Mg  Franquiciado": "0.55177523927138",
-        "Registro ISP": "F-25253",
         "Actividad": "BEA",
         "Principio Activo": "TADALAFILO",
         "Empresa": "GALENICUM HEALTH CHILE S.p.A."
@@ -2178,15 +2016,6 @@
         "Empresa": "ASCEND LABORATORIES S.p.A."
     },
     {
-        "Codigo": "392718",
-        "Descriptor": "GLUCOSAN XR COM.1000MG.30",
-        "Mg  Franquiciado": "0.632904884318766",
-        "Registro ISP": "F-25052",
-        "Actividad": "BEA",
-        "Principio Activo": "METFORMINA",
-        "Empresa": "INSTITUTO SANITAS S.A."
-    },
-    {
         "Codigo": "392924",
         "Descriptor": "VALAX COM.REC.80MG.30",
         "Mg  Franquiciado": "0.400027055799646",
@@ -2202,15 +2031,6 @@
         "Registro ISP": "F-16869",
         "Actividad": "BEA",
         "Principio Activo": "VALSARTAN",
-        "Empresa": "LABORATORIOS SAVAL S.A."
-    },
-    {
-        "Codigo": "393308",
-        "Descriptor": "PERTIUM COM.5MG.30",
-        "Mg  Franquiciado": "0.44734703355393",
-        "Registro ISP": "F-17500",
-        "Actividad": "BEA",
-        "Principio Activo": "NEBIVOLOL",
         "Empresa": "LABORATORIOS SAVAL S.A."
     },
     {
@@ -2311,42 +2131,6 @@
         "Actividad": "BEA",
         "Principio Activo": "CETIRIZINA",
         "Empresa": "ASCEND LABORATORIES S.p.A."
-    },
-    {
-        "Codigo": "402499",
-        "Descriptor": "TROMBEX BE.COMREC.10MG.10",
-        "Mg  Franquiciado": "0.406312254637164",
-        "Registro ISP": "F-26081",
-        "Actividad": "BEA",
-        "Principio Activo": "RIVAROXABAN",
-        "Empresa": "ITF - LABOMED FARMACÉUTICA LTDA."
-    },
-    {
-        "Codigo": "402503",
-        "Descriptor": "TROMBEX BE.COMREC.15MG.28",
-        "Mg  Franquiciado": "0.431181045396998",
-        "Registro ISP": "F-26096",
-        "Actividad": "BEA",
-        "Principio Activo": "RIVAROXABAN",
-        "Empresa": "ITF - LABOMED FARMACÉUTICA LTDA."
-    },
-    {
-        "Codigo": "402505",
-        "Descriptor": "TROMBEX BE.COMREC.20MG.28",
-        "Mg  Franquiciado": "0.458906445379107",
-        "Registro ISP": "F-26082",
-        "Actividad": "BEA",
-        "Principio Activo": "RIVAROXABAN",
-        "Empresa": "ITF - LABOMED FARMACÉUTICA LTDA."
-    },
-    {
-        "Codigo": "402833",
-        "Descriptor": "REDISTATIN COMREC.10MG.30",
-        "Mg  Franquiciado": "0.553487265372613",
-        "Registro ISP": "F-23987",
-        "Actividad": "BEA",
-        "Principio Activo": "ROSUVASTATINA",
-        "Empresa": "DR. REDDYS LABORATORIES CHILE S.p.A."
     },
     {
         "Codigo": "403293",
@@ -2637,15 +2421,6 @@
         "Empresa": "LABORATORIO CHILE S.A."
     },
     {
-        "Codigo": "548198",
-        "Descriptor": "LUKEM10 BE COMREC.10MG.30",
-        "Mg  Franquiciado": "0.463904649793997",
-        "Registro ISP": "F-25883",
-        "Actividad": "BEA",
-        "Principio Activo": "MONTELUKAST",
-        "Empresa": "ASCEND LABORATORIES S.p.A."
-    },
-    {
         "Codigo": "548642",
         "Descriptor": "RIXOVITAE COM.REC.15MG.28",
         "Mg  Franquiciado": "0.482505461447552",
@@ -2700,24 +2475,6 @@
         "Empresa": "MINTLAB Co. S.A."
     },
     {
-        "Codigo": "551063",
-        "Descriptor": "GENIOL 1 BE.COM.1000MG.20",
-        "Mg  Franquiciado": "0.621621621621622",
-        "Registro ISP": "F-27526",
-        "Actividad": "BEA",
-        "Principio Activo": "PARACETAMOL ",
-        "Empresa": "MINTLAB Co. S.A. "
-    },
-    {
-        "Codigo": "551904",
-        "Descriptor": "ALERPAST COM.REC.5MG.30",
-        "Mg  Franquiciado": "0.532938144329897",
-        "Registro ISP": "F-27705",
-        "Actividad": "BEA",
-        "Principio Activo": "LEVOCETIRIZINA",
-        "Empresa": "LABORATORIO PASTEUR S.A."
-    },
-    {
         "Codigo": "552317",
         "Descriptor": "IBUCALM400 BE.CAPB400M.20",
         "Mg  Franquiciado": "0.572614035087719",
@@ -2731,15 +2488,6 @@
         "Descriptor": "CARDIPRES COMREC40/5MG.30",
         "Mg  Franquiciado": "0.554464448081469",
         "Registro ISP": "F-25259",
-        "Actividad": "BEA",
-        "Principio Activo": "AMLODIPINO//OLMESARTAN MEDOXOMILO",
-        "Empresa": "LABORATORIO CHILE S.A."
-    },
-    {
-        "Codigo": "553945",
-        "Descriptor": "CARDIPRES COMREC20/5MG.30",
-        "Mg  Franquiciado": "0.584694945905644",
-        "Registro ISP": "F-25256",
         "Actividad": "BEA",
         "Principio Activo": "AMLODIPINO//OLMESARTAN MEDOXOMILO",
         "Empresa": "LABORATORIO CHILE S.A."
@@ -2931,15 +2679,6 @@
         "Registro ISP": "F-26498",
         "Actividad": "BEA",
         "Principio Activo": "PREGABALINA",
-        "Empresa": "SEVEN PHARMA CHILE S.p.A."
-    },
-    {
-        "Codigo": "559199",
-        "Descriptor": "ROFULAS BE.COMREC.20MG.30",
-        "Mg  Franquiciado": "0.490383122688122",
-        "Registro ISP": "F-26199",
-        "Actividad": "BEA",
-        "Principio Activo": "ROSUVASTATINA",
         "Empresa": "SEVEN PHARMA CHILE S.p.A."
     },
     {
@@ -3141,24 +2880,6 @@
         "Empresa": "LABORATORIOS SAVAL S.A."
     },
     {
-        "Codigo": "567117",
-        "Descriptor": "DIAMET.XR COM.LP.750MG.30",
-        "Mg  Franquiciado": "0.660115857625229",
-        "Registro ISP": "F-27623",
-        "Actividad": "BEA",
-        "Principio Activo": "METFORMINA",
-        "Empresa": "LABORATORIOS SAVAL S.A."
-    },
-    {
-        "Codigo": "567121",
-        "Descriptor": "DIAMET.XR COM.LP1000MG.30",
-        "Mg  Franquiciado": "0.606929063154744",
-        "Registro ISP": "F-27682",
-        "Actividad": "BEA",
-        "Principio Activo": "METFORMINA",
-        "Empresa": "LABORATORIOS SAVAL S.A."
-    },
-    {
         "Codigo": "570669",
         "Descriptor": "BIOMIRA-T SOL.OFT.5ML",
         "Mg  Franquiciado": "0.395657913019314",
@@ -3174,6 +2895,24 @@
         "Registro ISP": "F-27332",
         "Actividad": "BEA",
         "Principio Activo": "METFORMINA",
+        "Empresa": "MINTLAB Co. S.A."
+    },
+    {
+        "Codigo": "541879",
+        "Descriptor": "ALIVIDOL COM.1GR.20",
+        "Mg  Franquiciado": "0.67653791130186",
+        "Registro ISP": "F-24017",
+        "Actividad": "BEA",
+        "Principio Activo": "PARACETAMOL",
+        "Empresa": "OPKO CHILE S.A."
+    },
+    {
+        "Codigo": "565949",
+        "Descriptor": "DALZOR COMP.BUC.10MG.30",
+        "Mg  Franquiciado": "0.479421052631579",
+        "Registro ISP": "F-28452",
+        "Actividad": "BEA",
+        "Principio Activo": "DONEPEZILO",
         "Empresa": "MINTLAB Co. S.A."
     },
     {
