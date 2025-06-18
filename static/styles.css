@@ -70,3 +70,27 @@ nav a {
   padding: 1rem;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
+
+/*Vencimientos*/
+
+.lector {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.lector input {
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.lector button {
+  padding: 0.75rem;
+  background-color: var(--verde-oscuro);
+  color: var(--blanco);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}

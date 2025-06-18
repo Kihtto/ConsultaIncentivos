@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "1234567890123",
+    "nombre": "Paracetamol 500mg",
+    "laboratorio": "Farmalab",
+    "vencimiento": "2025-08"
+  },
+  {
+    "codigo": "9876543210987",
+    "nombre": "Ibuprofeno 200mg",
+    "laboratorio": "Salud Chile",
+    "vencimiento": "2024-12"
+  }
+]
