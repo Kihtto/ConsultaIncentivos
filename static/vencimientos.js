@@ -1,13 +1,11 @@
 let escaneando = true;
 let codigos = [];
 
-console.log('asi se ve el console.log');
 
 fetch('static/codigos.json')
   .then(res => res.json())
   .then(data => {
     codigos = data;
-    console.log('se cargo el codigo.json')
     iniciarQuagga();
   })
   .catch(err => {
@@ -43,7 +41,6 @@ function iniciarQuagga() {
       const code = result.codeResult.code;
       document.getElementById("codigoInput").value = code;
       buscarVencimiento(code);
-      console.log('se busco el codigo de barra')
       escaneando = false;
       setTimeout(() => {
         escaneando = true;
@@ -60,9 +57,6 @@ function buscarVencimiento(codigoManual = null) {
     resultado.innerHTML = "<p>No se ha ingresado ningún código.</p>";
     return;
   }
-  console.log('ahora se buscara el producto')
-  console.log(codigo)
-  console.log(codigos)
   const producto = codigos.find(p => p.Barras === codigo);
 
   if (producto) {
@@ -71,6 +65,7 @@ function buscarVencimiento(codigoManual = null) {
         <h2>${producto.Descriptor}</h2>
         <p><strong>Código interno:</strong> ${producto.Codigo}</p>
         <p><strong>Vencimiento:</strong> ${producto["Mes de vencimiento a devolver"]}</p>
+	<p><strong>Incentivo:</strong> ${producto.Incentivo}</p>
       </div>
     `;
   } else {
